@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "250175239952",
+    "project_id": "reactnative-pushnotifica-a2282",
+    "storage_bucket": "reactnative-pushnotifica-a2282.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250175239952:android:3fb18e22e40afa332d9795",
+        "android_client_info": {
+          "package_name": "com.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250175239952-8e8uo79gbv9k67iuumvrjjmn9akgpdhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGz1ccG8R7lDYroRULCidZJwwyld4G3qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250175239952-8e8uo79gbv9k67iuumvrjjmn9akgpdhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
